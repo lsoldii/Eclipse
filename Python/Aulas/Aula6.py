@@ -1,5 +1,5 @@
 # -*- coding: UTF-8
-#Operador Lógicos OR / AND
+#Operador LÃ³gicos OR / AND
 #Fazer um programa que aprova ou nega um financiamento
 
 renda_5k= True

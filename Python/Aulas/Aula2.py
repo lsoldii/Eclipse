@@ -1,11 +1,11 @@
 # -*- coding: UTF-8
-# escrever o uma frase usando variavéis
+# escrever o uma frase usando variaveis
 
 nome =input('Qual o seu nome?')
 idade =input('Qual a sua idade?')
-cidade =input('Onde você mora?')
+cidade =input('Onde vocÃª mora?')
 comida =input('Qual sua comida favorita?')
-gosto =input('O que você mais gosta de fazer?')
+gosto =input('O que vocÃª mais gosta de fazer?')
 
-print('O ' + nome + ' tem ' + str(idade) + ' anos' + ' e mora em ' + cidade + ', sua comida preferida é '  + comida + ' e gosta muito de ' + gosto)
+print('O ' + nome + ' tem ' + str(idade) + ' anos' + ' e mora em ' + cidade + ', sua comida preferida Ã© '  + comida + ' e gosta muito de ' + gosto)
 

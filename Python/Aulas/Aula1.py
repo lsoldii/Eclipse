@@ -1,5 +1,5 @@
 # -*- coding: UTF-8
-# Meu primeiro código
+# Meu primeiro cÃ³digo
 
 x = str(3)
 y = int(4)
