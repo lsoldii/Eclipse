@@ -1,3 +1,4 @@
+# -*- coding: UTF-8
 #Calculo de troco
 
 valorprod =input('Qual o valor do produto?')

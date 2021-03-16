@@ -1,3 +1,4 @@
+# -*- coding: UTF-8
 #Ternary operator
 
 idade = 16

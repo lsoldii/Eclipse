@@ -1,3 +1,4 @@
+# -*- coding: UTF-8
 # escrever o uma frase usando variavéis
 
 nome =input('Qual o seu nome?')

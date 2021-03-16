@@ -1,3 +1,4 @@
+# -*- coding: UTF-8
 # Meu primeiro código
 
 x = str(3)

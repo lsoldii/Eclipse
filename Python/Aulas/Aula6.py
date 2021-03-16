@@ -1,3 +1,4 @@
+# -*- coding: UTF-8
 #Operador Lógicos OR / AND
 #Fazer um programa que aprova ou nega um financiamento
 
