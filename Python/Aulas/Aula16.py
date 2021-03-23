@@ -1,6 +1,7 @@
 # -*- coding: UTF-8
 
 
+
 #Criar uma fun��o que armazena numeros e strings (dados)
 
 
