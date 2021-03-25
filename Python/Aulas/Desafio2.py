@@ -16,6 +16,6 @@ def rendimento_lata():
     resultado = total_parede / rendimento
     print(f' Você precisará de {resultado} latas de tinta') 
 
-
+rendimento_lata()
 
 
